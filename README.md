@@ -11,7 +11,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjoshpeter@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://raw.githubusercontent.com/JoshPardosi-231401031/JoshPardosi-231401031/main/Resume_JoshPeterPardosi.pdf">
+  <a href="https://github.com/JoshPardosi-231401031/JoshPardosi-231401031/blob/main/Resume_JoshPeterPardosi.pdf">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
