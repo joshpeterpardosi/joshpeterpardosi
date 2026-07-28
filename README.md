@@ -86,14 +86,6 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joshpeterpardosi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - ⚡ **Advanced SQL** — window functions, CTEs, and query performance
