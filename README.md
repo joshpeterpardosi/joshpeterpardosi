@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Josh Peter Pardosi 👋</h1>
+<h1 align="center">Hello, I'm Josh Peter Pardosi</h1>
 
 <p align="center">
 <em>Aspiring Data Analyst · Turning Raw Data into Actionable Insights</em>
@@ -6,13 +6,7 @@
 
 <p align="center">
 <a href="https://joshpeterpardosi.github.io/JoshPeterPardosi_Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111418?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/josh-peter-pardosi-44ab612aa/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:itsjoshpeter@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
@@ -81,6 +75,8 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 | 🧪 [A/B Testing — Marketing Campaign](https://github.com/joshpeterpardosi/ab-test-marketing-analysis) | Analyzed a 588,101-user marketing experiment and detected a statistically robust **43% conversion lift**, verified as timing-independent with 95% confidence intervals. Profitability is framed as scenario-based, since ad cost was not observed. | Python, Pandas, SciPy, statsmodels |
 | 📈 [Retail Sales Forecasting](https://github.com/joshpeterpardosi/sales-forecasting-dashboard) | End-to-end pipeline on Corporación Favorita retail sales with a four-page Power BI dashboard. Holt-Winters additive forecasting **reduced MAE by 37.6%** against a 7-day moving-average baseline. | Python, statsmodels, PostgreSQL, Power BI |
 | 🌍 [Global Retail Expansion & Revenue Analysis](https://github.com/joshpeterpardosi/Global-Retail-Expansion-Revenue-Analysis) | Tableau dashboard for expansion decisions — revenue seasonality, top 10 non-UK markets, and highest-value customers. [Live dashboard →](https://public.tableau.com/shared/R57WQRKWG?:display_count=n&:origin=viz_share_link) | Tableau |
+
+> 📌 More detail, with results and their limitations, on my **[portfolio site](https://joshpeterpardosi.github.io/JoshPeterPardosi_Portfolio/)**.
 
 ---
 
