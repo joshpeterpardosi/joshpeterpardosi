@@ -82,8 +82,6 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 | 📈 [Retail Sales Forecasting](https://github.com/joshpeterpardosi/sales-forecasting-dashboard) | End-to-end pipeline on Corporación Favorita retail sales with a four-page Power BI dashboard. Holt-Winters additive forecasting **reduced MAE by 37.6%** against a 7-day moving-average baseline. | Python, statsmodels, PostgreSQL, Power BI |
 | 🌍 [Global Retail Expansion & Revenue Analysis](https://github.com/joshpeterpardosi/Global-Retail-Expansion-Revenue-Analysis) | Tableau dashboard for expansion decisions — revenue seasonality, top 10 non-UK markets, and highest-value customers. [Live dashboard →](https://public.tableau.com/shared/R57WQRKWG?:display_count=n&:origin=viz_share_link) | Tableau |
 
-> 📌 More detail, with results and limitations, on my **[portfolio site](https://joshpeterpardosi.github.io/JoshPeterPardosi_Portfolio/)**.
-
 ---
 
 ## 📚 Currently Learning
