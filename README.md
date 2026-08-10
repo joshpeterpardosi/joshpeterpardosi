@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Josh Peter Pardosi</h1>
 
 <p align="center">
-<em>Aspiring Data Analyst · Turning Raw Data into Actionable Insights</em>
+<em>Data Analyst · A/B testing, forecasting, dashboards — verified results, not vibes</em>
 </p>
 
 <p align="center">
