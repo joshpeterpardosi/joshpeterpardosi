@@ -37,6 +37,7 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/statsmodels-1E88E5?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -53,6 +54,7 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -62,6 +64,7 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/A/B_Testing-8E44AD?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Time_Series-FF6F00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </td>
 </tr>
 </table>
