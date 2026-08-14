@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://joshpeterpardosi.github.io/JoshPeterPardosi_Portfolio/">
+<a href="https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/">
 <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 </p>
@@ -75,11 +75,11 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🧪 [A/B Testing — Marketing Campaign](https://github.com/joshpeterpardosi/ab-test-marketing-analysis) | Analyzed a 588,101-user marketing experiment and detected a statistically robust **43% conversion lift**, verified as timing-independent with 95% confidence intervals. Profitability is framed as scenario-based, since ad cost was not observed. | Python, Pandas, SciPy, statsmodels |
-| 📈 [Retail Sales Forecasting](https://github.com/joshpeterpardosi/sales-forecasting-dashboard) | End-to-end pipeline on Corporación Favorita retail sales with a four-page Power BI dashboard. Holt-Winters additive forecasting **reduced MAE by 37.6%** against a 7-day moving-average baseline. | Python, statsmodels, PostgreSQL, Power BI |
-| 🌍 [Global Retail Expansion & Revenue Analysis](https://github.com/joshpeterpardosi/Global-Retail-Expansion-Revenue-Analysis) | Tableau dashboard for expansion decisions — revenue seasonality, top 10 non-UK markets, and highest-value customers. [Live dashboard →](https://public.tableau.com/shared/R57WQRKWG?:display_count=n&:origin=viz_share_link) | Tableau |
+| 🤖 [MLOps Pipeline — Churn Prediction & Revenue Forecasting](https://github.com/joshpeterpardosi/churn-mlops-forecasting-ops) | Dagster-orchestrated churn + MRR forecasting loop with MLflow promotion, FastAPI serving, and Evidently-triggered retraining. 101 tests, **0.84 ROC-AUC** churn model. | Python, Dagster, MLflow, LightGBM, FastAPI, Evidently, Docker |
+| 🛒 [E-Commerce Conversion Funnel & Customer Retention](https://github.com/joshpeterpardosi/ecommerce-funnel-retention) | Funnel, cohort retention, and RFM segmentation over 507,928 clickstream events on DuckDB/Parquet. 11 tests, live Streamlit dashboard. | DuckDB, Python, Parquet, Streamlit, Plotly, Pytest |
+| 🔍 [Data Quality & Observability Platform](https://github.com/joshpeterpardosi/data-quality-observability) | Five-dimension validation gate curating messy e-commerce CSVs into a clean, audited dataset. 20 tests. | Python, DuckDB, Pandera, Streamlit, Plotly, Pytest |
 
-> 📌 More detail, with results and their limitations, on my **[portfolio site](https://joshpeterpardosi.github.io/JoshPeterPardosi_Portfolio/)**.
+> 📌 More detail, with results and their limitations, on my **[portfolio site](https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/)**.
 
 ---
 
