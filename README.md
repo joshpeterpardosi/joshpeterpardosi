@@ -8,9 +8,6 @@
 <a href="https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/">
 <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://drive.google.com/file/d/1CFjbA9SSnH6z_P5UXqEPdtS3azNIEM0c/view?usp=sharing">
-<img src="https://img.shields.io/badge/Read_My_Resume-0F766E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
-</a>
 </p>
 
 ---
