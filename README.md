@@ -89,14 +89,6 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 
 ---
 
-## 📚 Currently Learning
-
-- ⚡ **Advanced SQL** — window functions, CTEs, and query performance
-- 📊 **Dashboard design** — story-driven reporting in Power BI and Tableau
-- 📈 **Applied statistics** — hypothesis testing and forecasting for business questions
-
----
-
 ## 📬 Let's Connect
 
 Open to internship opportunities, data project collaboration, and analytics discussion.
