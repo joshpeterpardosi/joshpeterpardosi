@@ -8,6 +8,9 @@
 <a href="https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/">
 <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
+<a href="https://drive.google.com/file/d/1CFjbA9SSnH6z_P5UXqEPdtS3azNIEM0c/view?usp=sharing">
+<img src="https://img.shields.io/badge/Read_My_Resume-0F766E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
+</a>
 </p>
 
 ---
@@ -78,6 +81,9 @@ I'm currently **seeking a Data Analyst internship** where I can apply this to re
 | 🤖 [MLOps Pipeline — Churn Prediction & Revenue Forecasting](https://github.com/joshpeterpardosi/churn-mlops-forecasting-ops) | Dagster-orchestrated churn + MRR forecasting loop with MLflow promotion, FastAPI serving, and Evidently-triggered retraining. 101 tests, **0.84 ROC-AUC** churn model. | Python, Dagster, MLflow, LightGBM, FastAPI, Evidently, Docker |
 | 🛒 [E-Commerce Conversion Funnel & Customer Retention](https://github.com/joshpeterpardosi/ecommerce-funnel-retention) | Funnel, cohort retention, and RFM segmentation over 507,928 clickstream events on DuckDB/Parquet. 11 tests, live Streamlit dashboard. | DuckDB, Python, Parquet, Streamlit, Plotly, Pytest |
 | 🔍 [Data Quality & Observability Platform](https://github.com/joshpeterpardosi/data-quality-observability) | Five-dimension validation gate curating messy e-commerce CSVs into a clean, audited dataset. 20 tests. | Python, DuckDB, Pandera, Streamlit, Plotly, Pytest |
+| ⚡ [Real-Time Event Pipeline — Fraud Detection](https://github.com/joshpeterpardosi/real-time-event-pipeline) | Kafka stream scored twice per event — rule engine plus XGBoost — into ClickHouse, behind Grafana and Streamlit. 46 tests, model gated at **0.846 precision / 0.786 recall**. | Kafka, Python, ClickHouse, XGBoost, Grafana, Streamlit, Docker |
+| 🧪 [A/B Testing — Marketing Campaign Effectiveness](https://github.com/joshpeterpardosi/ab-test-marketing-analysis) | 588,101-user experiment: **43.5% relative lift**, 95% CI clear of zero — and an honest finding that profitability cannot be confirmed without the missing cost data. | Python, Pandas, SciPy, statsmodels |
+| 🗃️ [E-Commerce ELT Pipeline & Review Score Prediction](https://github.com/joshpeterpardosi/ecommerce-elt-pipeline) | Olist dataset loaded into BigQuery, modeled through dbt staging and marts, feeding a review-score classifier where Delivery Delay carries ~29% of feature importance. | Python, dbt, BigQuery, scikit-learn |
 
 > 📌 More detail, with results and their limitations, on my **[portfolio site](https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/)**.
 
