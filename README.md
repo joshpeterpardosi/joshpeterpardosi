@@ -5,28 +5,26 @@
 ---
 
 <h3 align="center">About</h3>
-<p align="center">Final-year Computer Science student at Universitas Sumatera Utara (GPA 3.68/4.00), expected graduate 2027.<br>Work mostly in SQL and Python — pull data, clean it, test whether a difference is real, build dashboards that make the answer obvious.<br><strong>Currently seeking an internship in data/analytics.</strong></p>
+<p align="center">Final-year Computer Science student at Universitas Sumatera Utara (GPA 3.68/4.00), expected graduate 2027.<br>Work mostly in SQL and Python — pull data, clean it, test whether a difference is real, build dashboards that make the answer obvious.</p>
+
+> [!TIP]
+> **Currently seeking an internship in data/analytics.**
 
 ---
 
 <h3 align="center">Stack</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,git&theme=light" /></p>
-<p align="center">Also: Pandas · NumPy · SciPy/statsmodels · Power BI · Tableau · Streamlit</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
-<h3 align="center">Projects</h3>
-
-**🤖 [MLOps Pipeline — Churn & Revenue Forecasting](https://github.com/joshpeterpardosi/churn-mlops-forecasting-ops)**
-Dagster-orchestrated churn + MRR forecasting loop, MLflow promotion, FastAPI serving. 101 tests, 0.84 ROC-AUC.
-`Python` `Dagster` `MLflow` `LightGBM` `FastAPI` `Docker`
-
-**⚡ [Real-Time Fraud Detection Pipeline](https://github.com/joshpeterpardosi/real-time-event-pipeline)**
-Kafka stream scored by rule engine + XGBoost into ClickHouse. 46 tests, 0.846 precision / 0.786 recall.
-`Kafka` `Python` `ClickHouse` `XGBoost` `Grafana`
-
-**🧪 [A/B Test — Marketing Campaign](https://github.com/joshpeterpardosi/ab-test-marketing-analysis)**
-588,101-user experiment: 43.5% relative lift, 95% CI clear of zero — profitability unconfirmed pending cost data.
-`Python` `Pandas` `SciPy` `statsmodels`
-
-<p align="center">3 more projects (data quality, ELT pipeline, funnel & retention) on the <a href="https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/">portfolio site</a>.</p>
+<p align="center">Projects, results and their limitations, on the <a href="https://joshpeterpardosi.github.io/joshpeterpardosi-portfolio/">portfolio site</a>.</p>
