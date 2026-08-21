@@ -5,10 +5,7 @@
 ---
 
 <h3 align="center">About</h3>
-<p align="center">Final-year Computer Science student at Universitas Sumatera Utara (GPA 3.68/4.00), expected graduate 2027.<br>Work mostly in SQL and Python — pull data, clean it, test whether a difference is real, build dashboards that make the answer obvious.</p>
-
-> [!TIP]
-> **Currently seeking an internship in data/analytics.**
+<p align="center">Final-year Computer Science student at Universitas Sumatera Utara (GPA 3.68/4.00), expected graduate 2027.<br>Work mostly in SQL and Python — pull data, clean it, test whether a difference is real, build dashboards that make the answer obvious.<br><strong>Currently seeking an internship in data/analytics.</strong></p>
 
 ---
 
