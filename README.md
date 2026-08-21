@@ -10,8 +10,8 @@
 ---
 
 <h3 align="center">Stack</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=python,r,postgres,pandas,numpy,scipy&perline=6&theme=light" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=sklearn,powerbi,tableau,streamlit,git&perline=6&theme=light" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,git&theme=light" /></p>
+<p align="center">Also: Pandas · NumPy · SciPy/statsmodels · Power BI · Tableau · Streamlit</p>
 
 ---
 
